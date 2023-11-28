@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82a9b761.css",
+    "main.js": "/static/js/main.b48f2d19.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Agri_3.jpg": "/static/media/Agri_3.e055678e5079f529d235.jpg",
+    "index.html": "/index.html",
+    "main.82a9b761.css.map": "/static/css/main.82a9b761.css.map",
+    "main.b48f2d19.js.map": "/static/js/main.b48f2d19.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a9b761.css",
+    "static/js/main.b48f2d19.js"
+  ]
+}
